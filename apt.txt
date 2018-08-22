@@ -1,2 +1,3 @@
 libgmp3-dev
 libmpfr-dev
+libv8-dev
