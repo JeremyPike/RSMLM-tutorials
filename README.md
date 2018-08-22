@@ -2,7 +2,7 @@
 
 # Tutorials for RSMLM
 
-This repository contains tutorials for the R package: [RSMLM](https://github.com/JeremyPike/RSMLM).
+This repository contains tutorials and demos for the R package: [RSMLM](https://github.com/JeremyPike/RSMLM).
 
 Tutorial are written as Binder ready Jupyter notebooks and can be run by clicking on [launch binder](https://mybinder.org/v2/gh/JeremyPike/RSMLM-tutorials/master). 
 
