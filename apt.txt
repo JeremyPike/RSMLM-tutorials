@@ -1,0 +1,2 @@
+libgmp3-dev
+libmpfr-dev
