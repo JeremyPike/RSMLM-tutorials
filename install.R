@@ -1,4 +1,4 @@
 install.packages("devtools")
-
-library(devtools)
-install_github("jeremypike/RSMLM")
+install.packages("TDA")
+#library(devtools)
+#install_github("jeremypike/RSMLM")
