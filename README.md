@@ -18,3 +18,7 @@ If RSMLM is useful please cite our pre-print:
 Topological data analysis quantifies biological nano-structure from single molecule localization microscopy\
 Jeremy A Pike, Abdullah O Khan, Chiara Pallini, Steven G Thomas, Markus Mund, Jonas Ries, Natalie S Poulter, Iain B Styles\
 bioRxiv 400275; doi: [https://doi.org/10.1101/400275](https://doi.org/10.1101/400275)
+
+## Licence
+
+GNU General Public License v3.0
